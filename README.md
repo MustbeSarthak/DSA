@@ -1,2 +1,29 @@
-# DSA
-This repository contains my journey of learning Data Structures and Algorithms (DSA).   It includes solutions to various problems along with a focus on problem-solving approaches, logic building, and optimization techniques.    I regularly update this repo as I practice and improve my skills.
+# DSA Practice
+
+This repository contains my journey of learning Data Structures and Algorithms (DSA).
+I am solving problems regularly to improve my problem-solving skills and build a strong foundation for technical interviews.
+
+## What you'll find here
+
+* Solutions to DSA problems (Java)
+* Focus on logic building and optimization
+* Clean and structured code
+
+## Topics Covered
+
+* Arrays
+* Strings
+* Linked List
+* Stack & Queue
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+
+## Goal
+
+To become proficient in problem-solving and crack top tech internships.
+
+## Progress
+
+Consistently updating with new problems.
