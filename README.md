@@ -22,7 +22,7 @@ I am solving problems regularly to improve my problem-solving skills and build a
 
 ## Goal
 
-To become proficient in problem-solving and crack top tech internships.
+To become proficient in problem-solving.
 
 ## Progress
 
