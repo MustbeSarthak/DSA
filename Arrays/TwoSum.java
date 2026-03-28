@@ -8,14 +8,17 @@ public class TwoSum {
                 }
             }
         }
-        return new int[]{-1,-1};
+        return new int[]{-1,-1}; // Returning the indeces , not the values 
     }
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int target;
+
+        int target; // Used Target to store what we are traversing for 
         int[] arr = {2,7,11,15};  
+
         System.out.print("Enter Your Target: "); 
         target = in.nextInt();
+
         int[] result = TwoSu(target, arr);
         System.out.println(result[0] + " , " + result[1]);
     }
