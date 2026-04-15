@@ -18,7 +18,7 @@ class Longestprefix {
                     return;
                 }
             }
-
+            
             res.append(ch); // Returning the string 
         }
 
