@@ -48,6 +48,7 @@ Consistently updating with new problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/MustbeSarthak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +67,8 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MustbeSarthak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
