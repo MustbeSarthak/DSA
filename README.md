@@ -35,6 +35,7 @@ Consistently updating with new problems.
 | ------- |
 | [0001-two-sum](https://github.com/MustbeSarthak/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -55,6 +56,7 @@ Consistently updating with new problems.
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/MustbeSarthak/DSA/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -67,6 +69,7 @@ Consistently updating with new problems.
 | ------- |
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
@@ -78,6 +81,7 @@ Consistently updating with new problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MustbeSarthak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +91,8 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MustbeSarthak/DSA/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
