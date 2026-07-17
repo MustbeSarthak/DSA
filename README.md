@@ -55,6 +55,7 @@ Consistently updating with new problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/MustbeSarthak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0152-maximum-product-subarray) |
@@ -68,6 +69,7 @@ Consistently updating with new problems.
 | ------- |
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
