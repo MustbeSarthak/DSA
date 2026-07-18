@@ -35,6 +35,7 @@ Consistently updating with new problems.
 | ------- |
 | [0001-two-sum](https://github.com/MustbeSarthak/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -43,6 +44,7 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -56,6 +58,7 @@ Consistently updating with new problems.
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0152-maximum-product-subarray) |
@@ -76,6 +79,7 @@ Consistently updating with new problems.
 | ------- |
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
