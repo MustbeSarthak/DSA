@@ -1,15 +1,25 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for(int num : nums){
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-        
-        for(int num : nums){
-            if(map.get(num)==1){
-                return num;
+        int[] bits = new int[32];
+
+
+        for (int num : nums) {
+            for (int i = 0; i < 32; i++) {
+                if (((num >> i) & 1) == 1) {
+                    bits[i]++;
+                }
             }
         }
-        return -1;
+
+        int ans = 0;
+
+       
+        for (int i = 0; i < 32; i++) {
+            if (bits[i] % 3 != 0) {
+                ans |= (1 << i);
+            }
+        }
+
+        return ans;
     }
 }
