@@ -61,6 +61,7 @@ Consistently updating with new problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/MustbeSarthak/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MustbeSarthak/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MustbeSarthak/DSA/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ Consistently updating with new problems.
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/MustbeSarthak/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ Consistently updating with new problems.
 | [0015-3sum](https://github.com/MustbeSarthak/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/MustbeSarthak/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MustbeSarthak/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
