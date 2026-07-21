@@ -73,6 +73,7 @@ Consistently updating with new problems.
 | [0238-product-of-array-except-self](https://github.com/MustbeSarthak/DSA/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -145,4 +146,12 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
