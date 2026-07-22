@@ -77,6 +77,7 @@ Consistently updating with new problems.
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ Consistently updating with new problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MustbeSarthak/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Consistently updating with new problems.
 | [0229-majority-element-ii](https://github.com/MustbeSarthak/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
