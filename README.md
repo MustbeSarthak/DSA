@@ -101,6 +101,7 @@ Consistently updating with new problems.
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/MustbeSarthak/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MustbeSarthak/DSA/tree/master/0009-palindrome-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/MustbeSarthak/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |
