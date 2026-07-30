@@ -41,6 +41,7 @@ Consistently updating with new problems.
 | [0219-contains-duplicate-ii](https://github.com/MustbeSarthak/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/MustbeSarthak/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -49,11 +50,13 @@ Consistently updating with new problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MustbeSarthak/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +125,7 @@ Consistently updating with new problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/MustbeSarthak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
