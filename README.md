@@ -61,6 +61,7 @@ Consistently updating with new problems.
 | [0018-4sum](https://github.com/MustbeSarthak/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/MustbeSarthak/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MustbeSarthak/DSA/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@ Consistently updating with new problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MustbeSarthak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/MustbeSarthak/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
