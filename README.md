@@ -89,6 +89,7 @@ Consistently updating with new problems.
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -141,6 +142,7 @@ Consistently updating with new problems.
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
@@ -168,6 +170,7 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MustbeSarthak/DSA/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/MustbeSarthak/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
@@ -185,4 +188,8 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
