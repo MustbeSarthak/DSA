@@ -5,18 +5,15 @@ class Solution {
 
         while (left < right) {
 
-            // Current search space already sorted
             if (nums[left] < nums[right]) {
                 return nums[left];
             }
 
             int mid = left + (right - left) / 2;
 
-            // Left half is sorted
             if (nums[left] <= nums[mid]) {
                 left = mid + 1;
             } 
-            // Right half is sorted
             else {
                 right = mid;
             }
