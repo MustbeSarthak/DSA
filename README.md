@@ -73,6 +73,7 @@ Consistently updating with new problems.
 | [0035-search-insert-position](https://github.com/MustbeSarthak/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/MustbeSarthak/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MustbeSarthak/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MustbeSarthak/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@ Consistently updating with new problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MustbeSarthak/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/MustbeSarthak/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -210,4 +212,8 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MustbeSarthak/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MustbeSarthak/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
