@@ -1,11 +1,16 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        if (nums.length == 1) return 0;
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] > nums[i + 1]) {
-                return i;
-            }
+        int left = 0;
+        int right = nums.length-2;
+        while(left<=right){
+            int mid = left + (right - left)/2;
+
+            // peak exists in right side
+            if(nums[mid]<nums[mid+1]) left = mid + 1;
+            
+            // Definately the peak exists in left side
+            else right = mid - 1;
         }
-        return nums.length - 1;
+        return left;
     }
 }
