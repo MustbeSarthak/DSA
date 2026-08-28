@@ -81,6 +81,7 @@ Consistently updating with new problems.
 | [0137-single-number-ii](https://github.com/MustbeSarthak/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/MustbeSarthak/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -131,6 +132,7 @@ Consistently updating with new problems.
 | [0035-search-insert-position](https://github.com/MustbeSarthak/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/MustbeSarthak/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/MustbeSarthak/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MustbeSarthak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
