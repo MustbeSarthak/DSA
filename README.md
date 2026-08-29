@@ -43,6 +43,7 @@ Consistently updating with new problems.
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -91,6 +92,7 @@ Consistently updating with new problems.
 | [0238-product-of-array-except-self](https://github.com/MustbeSarthak/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MustbeSarthak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
@@ -159,6 +161,7 @@ Consistently updating with new problems.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MustbeSarthak/DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -179,6 +182,7 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MustbeSarthak/DSA/tree/master/0009-palindrome-number) |
+| [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/MustbeSarthak/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
@@ -222,4 +226,8 @@ Consistently updating with new problems.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MustbeSarthak/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MustbeSarthak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
