@@ -43,6 +43,7 @@ Consistently updating with new problems.
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -92,6 +93,7 @@ Consistently updating with new problems.
 | [0238-product-of-array-except-self](https://github.com/MustbeSarthak/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MustbeSarthak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
