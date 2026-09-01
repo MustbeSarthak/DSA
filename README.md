@@ -93,6 +93,7 @@ Consistently updating with new problems.
 | [0229-majority-element-ii](https://github.com/MustbeSarthak/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MustbeSarthak/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MustbeSarthak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -157,6 +158,7 @@ Consistently updating with new problems.
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -234,4 +236,16 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
