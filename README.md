@@ -52,6 +52,7 @@ Consistently updating with new problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MustbeSarthak/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
@@ -87,6 +88,7 @@ Consistently updating with new problems.
 | [0162-find-peak-element](https://github.com/MustbeSarthak/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MustbeSarthak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/MustbeSarthak/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MustbeSarthak/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -125,6 +127,7 @@ Consistently updating with new problems.
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MustbeSarthak/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MustbeSarthak/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MustbeSarthak/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MustbeSarthak/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
@@ -250,4 +253,8 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
