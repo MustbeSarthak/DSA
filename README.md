@@ -106,6 +106,7 @@ Consistently updating with new problems.
 | [0977-squares-of-a-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MustbeSarthak/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MustbeSarthak/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MustbeSarthak/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/MustbeSarthak/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -200,6 +201,7 @@ Consistently updating with new problems.
 | [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/MustbeSarthak/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MustbeSarthak/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MustbeSarthak/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Queue
 |  |
 | ------- |
