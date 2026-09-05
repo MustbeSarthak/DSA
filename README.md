@@ -107,6 +107,7 @@ Consistently updating with new problems.
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MustbeSarthak/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/MustbeSarthak/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/MustbeSarthak/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Consistently updating with new problems.
 | [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/MustbeSarthak/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/MustbeSarthak/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
