@@ -52,6 +52,7 @@ Consistently updating with new problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MustbeSarthak/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MustbeSarthak/DSA/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/MustbeSarthak/DSA/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -163,6 +164,7 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/MustbeSarthak/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
