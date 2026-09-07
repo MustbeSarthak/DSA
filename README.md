@@ -56,6 +56,7 @@ Consistently updating with new problems.
 | [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0940-distinct-subsequences-ii](https://github.com/MustbeSarthak/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Consistently updating with new problems.
 | [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/MustbeSarthak/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
