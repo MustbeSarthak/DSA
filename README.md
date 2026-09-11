@@ -46,6 +46,7 @@ Consistently updating with new problems.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MustbeSarthak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/MustbeSarthak/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MustbeSarthak/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MustbeSarthak/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Consistently updating with new problems.
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/MustbeSarthak/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MustbeSarthak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MustbeSarthak/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MustbeSarthak/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MustbeSarthak/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MustbeSarthak/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -269,4 +271,12 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MustbeSarthak/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MustbeSarthak/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
