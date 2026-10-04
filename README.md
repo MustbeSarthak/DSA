@@ -57,6 +57,7 @@ Consistently updating with new problems.
 | [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MustbeSarthak/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MustbeSarthak/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0678-valid-parenthesis-string](https://github.com/MustbeSarthak/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MustbeSarthak/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MustbeSarthak/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -172,6 +173,7 @@ Consistently updating with new problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MustbeSarthak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/MustbeSarthak/DSA/tree/master/0322-coin-change) |
+| [0678-valid-parenthesis-string](https://github.com/MustbeSarthak/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/MustbeSarthak/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MustbeSarthak/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/MustbeSarthak/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -222,6 +224,7 @@ Consistently updating with new problems.
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/MustbeSarthak/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/MustbeSarthak/DSA/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MustbeSarthak/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -273,6 +276,7 @@ Consistently updating with new problems.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MustbeSarthak/DSA/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/MustbeSarthak/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -284,5 +288,6 @@ Consistently updating with new problems.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/MustbeSarthak/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MustbeSarthak/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
